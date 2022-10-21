@@ -25,3 +25,7 @@ The .sas example file for Demonstration 1 should work in any relatively recent i
 
 * [nikolicxa](https://github.com/nikolicxa)
 
+
+## Disclaimer
+
+This project is in no way affiliated with SAS Institute Inc.
