@@ -13,9 +13,9 @@ Materials provided:
   * Demonstration 2 - Model trianing and evaluation from Appendix B of the paper in [.sas](https://github.com/nikolicxa/multi-dimensional-high-cardinality/blob/main/Code%20used%20in%20demonstrations/SESGUG2022_199_Demonstration_2.sas) format and Python (coming soon).
   
 - Three datasets:
-  * raw_non_sum_file - Used in Demonstration 1 in .sas and csv formats
-  * model_train - Used in Demonstration 2 in .sas and csv formats
-  * model_train_val - Used in Demonstration 2 in .sas and csv formats
+  * raw_non_sum_file - Used in Demonstration 1 in [.sas](https://github.com/nikolicxa/multi-dimensional-high-cardinality/blob/main/Data%20used%20in%20demonstrations/raw_non_sum_file%20-%20sas.zip) and [csv](https://github.com/nikolicxa/multi-dimensional-high-cardinality/blob/main/Data%20used%20in%20demonstrations/raw_non_sum_file%20-%20csv.zip) formats
+  * model_train - Used in Demonstration 2 in [.sas](https://github.com/nikolicxa/multi-dimensional-high-cardinality/blob/main/Data%20used%20in%20demonstrations/model_train%20-%20sas.zip) and [csv](https://github.com/nikolicxa/multi-dimensional-high-cardinality/blob/main/Data%20used%20in%20demonstrations/model_train%20-%20csv.zip) formats
+  * model_train_val - Used in Demonstration 2 in [.sas](https://github.com/nikolicxa/multi-dimensional-high-cardinality/blob/main/Data%20used%20in%20demonstrations/model_train_val%20-%20sas.zip) and [csv](https://github.com/nikolicxa/multi-dimensional-high-cardinality/blob/main/Data%20used%20in%20demonstrations/model_train_val%20-%20csv.zip) formats
   
 ## Prerequisites
 
