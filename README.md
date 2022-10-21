@@ -9,8 +9,8 @@ Materials provided:
 - [Slides](https://github.com/nikolicxa/multi-dimensional-high-cardinality/files/9826053/Presentation_SESGUG2022_199_Final.pdf) used in presentation
 
 - Two Demonstrations:
-  * Demonstration 1 - An implementation of calculating target representation using k-fold cross validation from Section 5 of the paper in [.sas](https://github.com/nikolicxa/multi-dimensional-high-cardinality/blob/main/Code%20used%20in%20demonstrations/SESGUG2022_199_Demonstration_1.sas) format and Python (Jupyter Notebook - coming soon). 
-  * Demonstration 2 - Model trianing and evaluation from Appendix B of the paper in .sas format and Python (Jupyter Notebook - coming soon).
+  * Demonstration 1 - An implementation of calculating target representation using k-fold cross validation from Section 5 of the paper in [.sas](https://github.com/nikolicxa/multi-dimensional-high-cardinality/blob/main/Code%20used%20in%20demonstrations/SESGUG2022_199_Demonstration_1.sas) format and Python (coming soon). 
+  * Demonstration 2 - Model trianing and evaluation from Appendix B of the paper in [.sas](https://github.com/nikolicxa/multi-dimensional-high-cardinality/blob/main/Code%20used%20in%20demonstrations/SESGUG2022_199_Demonstration_2.sas) format and Python (coming soon).
   
 - Three datasets:
   * raw_non_sum_file - Used in Demonstration 1 in .sas and csv formats
